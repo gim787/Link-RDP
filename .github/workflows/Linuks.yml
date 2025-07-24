@@ -1,4 +1,4 @@
-
+name: Obuntu VNC
 
 on: [workflow_dispatch]
 
